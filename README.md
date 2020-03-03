@@ -117,7 +117,6 @@ If you use NanoVar, please cite:
 
 Tham, CY., Tirado-Magallanes, R., Goh, Y. et al. NanoVar: accurate characterization of patients’ genomic structural variants using low-depth nanopore sequencing. Genome Biol 21, 56 (2020). https://doi.org/10.1186/s13059-020-01968-7
 
-
 ## Authors
 
 * **Tham Cheng Yong** - [cytham](https://github.com/cytham)
